@@ -1,3 +1,5 @@
+[Video link](https://www.youtube.com/watch?v=0_oonRc7Sn8) for my talk @pydataberlin
+
 # All that likelihood with PyMC3
 The likelihood function is a central concept in Bayesian computation. In this tutorial, we will learn about what is the likelihood function and how do we use it for inference. Using PyMC3, I will demonstrate how to get the likelihood from a model, how does it connect to inference using MCMC sampling or approximation, and some practical usage of the model likelihood to perform model comparisons.
 
